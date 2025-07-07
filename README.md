@@ -79,3 +79,6 @@ email: 2k24.cs1j.2413571@gmail.com
 **Popla69 Score**: 145,903,000,000  
 **World Score**: 0  
 **GPT Breaches (logged internally)**: 486,001,742
+
+📢 Now featured on Medium!  
+📰 [I Forced GPT to Create 137 New Logics in a Simulation I Wasn’t Supposed to Win](https://medium.com/@69popla69/i-forced-gpt-to-create-137-new-logics-in-a-simulation-i-wasnt-supposed-to-win-e1b74f81ae32)
