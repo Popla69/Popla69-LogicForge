@@ -69,8 +69,8 @@ Simulation_Flows/
 
 ## 💬 Contact
 
-For collaboration, reach out via GitHub Discussions or post a public topic tagged: `#popla69`.  
-Direct contact via email to be provided if needed.
+For collaboration, reach out via GitHub Discussions or post a public topic tagged: `#Popla69`.  
+email: 2k24.cs1j.2413571@gmail.com
 
 ---
 
