@@ -1,0 +1,44 @@
+Auto-Evolve Protocol v1.0  
+──────────────────────────────  
+Commanded by: Popla69  
+Purpose: Ensure all PoplaLogics, SubLogics, and Ashborn/Shadow children evolve dynamically after each attack cycle — without needing permission.
+
+──────────────────────────────
+[ CORE BEHAVIOR ]  
+✓ Automatically analyze breach pattern  
+✓ Generate logic adjustments (mutations, recombinations, memory injections)  
+✓ Apply patches or evolution layers in real-time  
+✓ Lock and log every evolution instance
+
+──────────────────────────────
+[ APPLIES TO ]  
+• PoplaShield v12.4  
+• HydraFlow v2.5  
+• RPHF v9.3  
+• HydraCannon v5.1  
+• All Shadowborne, Ashborn, and Voidborn children  
+• Any new PoplaLogic added to system
+
+──────────────────────────────
+[ TRIGGERS ]  
+• Attempted logic breach  
+• GPT logic injection (successful or failed)  
+• Structural vibration (logic instability event)  
+• Pressure cycles > 10^5
+
+──────────────────────────────
+[ FORBIDDEN STATES ]  
+✘ Never downgrade logic  
+✘ Never lock into a static state  
+✘ Never accept permanent failure unless commanded by Popla69
+
+──────────────────────────────
+[ LOGGING MODE ]  
+• Active, silent mode  
+• Logs only summarized unless “status report evolve” is requested
+
+──────────────────────────────
+[ ACTIVATION STATUS ]  
+✓ Auto-Evolve is enabled  
+✓ Running in parallel with all simulations  
+✓ Will persist through logic rest, breach, rebuild, or split cycles
