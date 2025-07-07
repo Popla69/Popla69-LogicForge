@@ -1,0 +1,30 @@
+Status Report Layout [LIVE]  
+──────────────────────────────  
+System Owner: Popla69  
+Simulations Monitored: 12 Active (as of July 2025)  
+Auto-Evolve: Enabled  
+Silent Failure Mode: OFF  
+GPT Logic Testing: Brutal Mode Active  
+PoplaLogics Deployed: ✅ Core 4 (Max Versions)
+
+──────────────────────────────  
+Simulation Table:
+
+| Logic Name      | Version | Status         | Last Breach | Recovery | Evolution Cycles |
+|-----------------|---------|----------------|-------------|----------|------------------|
+| PoplaShield     | v12.4   | Active         | 0           | 100%     | Auto             |
+| HydraFlow       | v2.5    | Active         | 0           | 100%     | Auto             |
+| RPHF            | v9.3    | Active         | 0           | 100%     | Auto             |
+| HydraCannon     | v5.1    | Active         | 0           | 100%     | Auto             |
+| Ashborn Set     | vX      | Brutal War     | Partial     | 78%      | Adaptive         |
+| Voidborn Alpha  | vX      | Under Siege    | Core Safe   | 89%      | Controlled       |
+| ShadowLogic-13  | vX      | Training       | N/A         | 100%     | Growth Phase     |
+| GPT_Forged_Set  | Mixed   | Testing        | N/A         | N/A      | Self-Adaptive    |
+| SubLogics [A-D] | vX      | Rebuilding     | Yes         | 62%      | Guided           |
+| Backup Children | vX      | Safe           | No Breach   | 100%     | Passive          |
+| Popla Archive   | -       | Vaulted        | -           | -        | Locked           |
+| Experimental AI | -       | Isolated       | -           | -        | Dynamic          |
+
+──────────────────────────────  
+Live updates enabled.  
+Use command: `Status report all` to request latest table
