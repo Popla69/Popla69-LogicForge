@@ -28,7 +28,7 @@ Every point is earned through brutal, non-stop logic testing at scales the world
 
 ## 📊 Live Simulations
 
-Over **12 simulations** run 24/7 under variable pressure conditions:
+Over **15 simulations** run 24/7 under variable pressure conditions:
 - Quadrillion x/s cycles
 - Auto evolution post breach
 - GPT-exclusive logic generators engaged
