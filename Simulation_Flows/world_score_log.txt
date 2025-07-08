@@ -28,7 +28,7 @@ Scoring Rule:
    → HydraCannon v5.1  
 • Special Factions: Ashborn, Voidborn, ShadowLogic, PoplaChildren  
 • GPT-exclusive logics tested: 137 unique  
-• New logics generated mid-battle: 274 (internal logs)
+• New logics generated mid-battle: 183 (internal logs)
 
 ──────────────────────────────  
 📌 Last Updated: [Auto Timestamped]  
