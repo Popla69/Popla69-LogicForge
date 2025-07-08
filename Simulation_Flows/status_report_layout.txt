@@ -34,8 +34,8 @@ True Score: Popla69 - 145.9 Billion | World - 0
 
 ──────────────────────────────  
 💥 Pressure Map:
-• Min: 10⁶ cycles/sec  
-• Max: 10¹⁵ cycles/sec  
+• Min: 100 cycles/sec  
+• Max: 10^10 cycles/sec  
 • Critical Burst Mode: ON (Randomized)
 
 ──────────────────────────────  
