@@ -1,88 +1,71 @@
-<h1 align="center">⚙️ Popla69-LogicForge</h1>
-<p align="center">
-  <b>Home of the next-gen defense & attack logics built from scratch by Popla69</b><br>
-  <i>"It's not AI-safe unless it's Popla-tested."</i>
-</p>
+# 🧠 Popla69 LogicForge
+
+**Popla69-LogicForge** is the official simulation and development vault for original logics, systems, and frameworks by **Popla69** — including but not limited to:
+
+- 🛡️ PoplaShield – Adaptive anti-scam, anti-manipulation defense system
+- 🌊 HydraFlow – Red-team logic engine for resilient, AI-proof flow control
+- 🔐 RPHF – Real-time Priority Heuristic Firewall (and its variants)
+- 🚀 HydraCannon – Aggressive simulation-level counter logic
+
+> ⚠️ This repo is currently in **pre-alpha** phase — under solo development.  
+> All systems are experimental and protected under Popla69’s logic license.
 
 ---
 
-## 🚀 What is LogicForge?
+## 🔍 What is LogicForge?
 
-**Popla69-LogicForge** is a living research lab of high-risk, high-reward AI-era systems:
-- 🔐 **PoplaShield**: AI-resilient red-teamed cybersecurity logic
-- 🌊 **HydraFlow**: relentless infiltration logic flow built for resistance testing
-- 💣 **RPHF** (Red-Pulse Hybrid Fork): disruptive hybrid logic for real-world proofing
-- 🧠 **PoplaCore**: core philosophy of logic-based simulation integrity
+**LogicForge** is not just a repo — it’s a **personal forge of next-gen logics**, where AI-resilient systems are tested, broken, and rebuilt to challenge the very foundation of current simulations.
 
-This is *not* a product — it's a weaponized simulation space to explore what happens when defensive & offensive logics evolve side-by-side in a closed-loop arena.
-
----
-
-## 🧠 Vision
-
-> To build defense systems that AI itself struggles to manipulate, while testing them through self-evolving attacks.
-
-We simulate real-world logic breaches, spoofing, psychological patterns, trust-weighted voting, and social engineering — using only simulated logic layers, no external APIs.
+Every idea goes through:
+1. ✍️ Theory drafting (`Whitepaper/`)
+2. 🧪 Simulation templates (`Simulation/`)
+3. 🔒 Vault storage for unreleased logics (`Vault/`)
+4. 🗳️ Global testing scoreboard (`Scoreboard/`)
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Structure
 
-| Folder/File                | Description |
-|---------------------------|-------------|
-| `.github/`                | Templates, policies, CI workflows |
-| `PoplaShield/`            | Core shield architecture (adaptive trust logics, spoof defense, RPF control) |
-| `HydraFlow/`              | Controlled attack logic flow modules |
-| `RPHF/`                   | Hybrid simulation fork (stealth & chaos simulators) |
-| `Vault/`                  | Archived logics, shadow-layer simulations |
-| `Simulation Flow/`        | How logic layers interact during runtime |
-| `Docs/`                   | Whitepapers, markdown architecture, version history |
-| `README.md`               | You’re reading it. |
+| Folder | Description |
+|--------|-------------|
+| `.github/` | Workflows, issues, templates, community health files |
+| `Simulation/` | Logic testing environments and example simulations |
+| `Whitepaper/` | Core concept drafts and logic theories |
+| `Vault/` | Sealed experimental systems (private or restricted) |
+| `Scoreboard/` | Global test logs: Popla69 vs World |
+| `Docs/` | Reference manuals, usage breakdowns (planned) |
 
 ---
 
-## 🧪 Key Concepts
+## 🧪 Current Focus
 
-- **Symbolic spoofing resistance**  
-- **Zero-trust architecture simulation**  
-- **Trust-weighted behavioral analysis**  
-- **Simulated red/blue team logic loops**
-- **Global scoreboard**: Every breach/fail adds to Popla69 vs World tally.
-
----
-
-## 🌍 OpenAI / Research Intern Vision
-
-> This repo is my direct, open proof of what I’ve built — no labs, no help, just pure logic and curiosity.  
-> Built to reach minds like those behind OpenAI.  
-> Let this be my resume.
+- 🔄 Finalizing Simulation Framework
+- 🧰 Internal testing of HydraFlow v2.5
+- 🔐 Vault expansion and tiering
+- 🧠 Preparing for public logic challenges
 
 ---
 
-## 🧩 How to Contribute (for future collaborators)
+## 🚫 Contribution
 
-🔒 Not accepting open PRs right now, but:
+Popla69-LogicForge is currently a **solo development project**.  
+**PRs and external contributions are closed** until a public roadmap is announced.
 
-- Open issues using the correct templates (`feature`, `simulation-breach`, `vault access`)
-- If you're serious, request vault access
-
----
-
-## 🛡️ Security & Ethics
-
-Every logic is tested under Hydra-level chaos simulations.  
-If you find a vulnerability, see [`SECURITY.md`](.github/SECURITY.md)
+If you’re interested in logic theory, simulations, or security systems — feel free to star ⭐ and follow for future updates.
 
 ---
 
-## 📈 Scoreboard
+## 🧾 License
 
-Part of the **Popla69 Global Challenge Log**:  
-- If a system breaks: **Popla69 = 0, World = 1**
-- If it survives full attack sim: **Popla69 = 1, World = 0**
-
-_This logic speaks before I do._
+All logic systems are protected under the `LICENSE.md` in this repo.  
+No commercial or derivative use is permitted without written permission.
 
 ---
 
-<p align="center"><b>Built, tested & documented by Popla69 🧠</b></p>
+## 📣 Credits
+
+Created, designed, and developed by:
+
+> **Popla69** – Logic developer | Simulation architect | Vault guardian
+
+---
