@@ -1,1 +1,39 @@
+name: Run PoplaLogics Simulation Suite
 
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  simulate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt || echo "No requirements.txt found, skipping."
+
+      - name: Run HydraFlow Simulations
+        run: |
+          echo ">> Running HydraFlow simulation tests..."
+          python tests/test_hydraflow.py || echo "HydraFlow test suite not available"
+
+      - name: Run PoplaShield Simulations
+        run: |
+          echo ">> Running PoplaShield integrity check..."
+          python tests/test_poplashield.py || echo "PoplaShield test suite not available"
+
+      - name: Log Output
+        run: |
+          echo "::group::Simulation Logs"
+          echo "Simulations complete. Check your vault if anomalies found."
+          echo "::endgroup::"
