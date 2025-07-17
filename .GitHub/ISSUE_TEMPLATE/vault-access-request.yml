@@ -1,1 +1,29 @@
-
+name: Vault Access Request
+description: Request access to PoplaVault experimental logic or restricted simulations.
+title: "[ACCESS REQUEST] - <logic/system name>"
+labels: ["vault", "access", "restricted"]
+assignees:
+  - Popla69
+body:
+  - type: input
+    id: requestor_id
+    attributes:
+      label: Who are you?
+      placeholder: "e.g., Trusted Contributor, Popla Logic Analyst"
+  - type: input
+    id: logic_requested
+    attributes:
+      label: Logic/Module Requested
+      placeholder: "e.g., HydraCannon-X, RPHF-Rewrite-v2"
+  - type: textarea
+    id: reason_for_access
+    attributes:
+      label: Why do you need access?
+      description: Explain why access is required — research, testing, bug report, etc.
+  - type: checkboxes
+    id: nda_check
+    attributes:
+      label: Security Agreement
+      options:
+        - label: I agree not to leak, expose, or clone the logic externally.
+          required: true
