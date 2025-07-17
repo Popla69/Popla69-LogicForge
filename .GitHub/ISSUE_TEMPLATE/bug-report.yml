@@ -1,1 +1,37 @@
 
+name: Logic Simulation Issue
+description: Report logic failures or testing issues in PoplaVerse simulations.
+title: "[BUG] - <summary>"
+labels: ["bug", "simulation", "logic-failure"]
+assignees:
+  - Popla69
+body:
+  - type: input
+    id: affected_logic
+    attributes:
+      label: Affected Logic or Module
+      placeholder: "e.g., HydraFlow v2.5"
+  - type: textarea
+    id: bug_description
+    attributes:
+      label: Bug Description
+      description: What happened? Include exact simulation scenario or trigger.
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Reproduce Steps
+      description: Write clear steps to replicate the issue.
+      placeholder: |
+        1. Run X with Y parameter
+        2. Enable HydraCannon bypass mode
+        3. Observe crash at logic output stage
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Outcome
+      placeholder: "e.g., PoplaShield should’ve deflected RPHF spoof."
+  - type: textarea
+    id: additional_logs
+    attributes:
+      label: Logs / Output / Screenshots
+      description: Share simulation trace, error log, or test results.
