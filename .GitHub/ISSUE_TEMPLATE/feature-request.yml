@@ -1,1 +1,38 @@
-
+name: Feature Request
+description: Suggest a new feature or upgrade for the Popla69 LogicForge.
+title: "[FEATURE] - <short feature name>"
+labels: ["enhancement", "logic-feature"]
+assignees:
+  - Popla69
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🧠 Please describe the feature you'd like to see added to LogicForge.
+  - type: input
+    id: feature_title
+    attributes:
+      label: Feature Title
+      placeholder: "e.g. HydraFlow-VisualMonitor"
+  - type: textarea
+    id: feature_description
+    attributes:
+      label: Feature Description
+      description: What does the feature do, and why is it needed?
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Affects Which System(s)?
+      multiple: true
+      options:
+        - HydraFlow
+        - PoplaShield
+        - RPHF Variants
+        - Vault Systems
+        - UI/Docs
+        - Other
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Extra Context
+      description: Any screenshots, references, or links?
