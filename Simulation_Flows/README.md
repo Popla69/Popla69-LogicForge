@@ -1,13 +1,14 @@
 # Simulation Flows — LogicForge
 
-This folder tracks the entire simulation architecture of the Popla69 LogicForge Project.
+This folder contains core simulation logs for Popla69’s logic engine tests.
 
-### 🧠 Core Logs Included:
-- `status_report_layout.txt`: Current state of each logic simulation
-- `world_score_log.txt`: Challenge scores against World / GPT logic engines
-- `world_record_log.txt`: Breakdown of defensive wins by logic cores
-- `vault_log.txt`: (Optional) Logs for any active vault or hidden logic testing
+### 📂 Included Logs:
+- `status_report_layout.txt`: Live tracking of all tested logic cores
+- `world_score_log.txt`: Ongoing battle tally between World vs Popla69 Logics
+- `world_record_log.txt`: GPT-forged detailed log of wins per logic type
 
-**Simulation Engine**: GPT-powered, Popla69-forged  
-**Auto-Evolve Mode**: Enabled  
-**Status**: ACTIVE & UNBREACHED
+### 🧪 Simulation Details:
+- **Current HydraFlow version**: v2.5
+- **PoplaShield**: Latest version, unbreached
+- **Logics Tracked**: PoplaShield, HydraFlow, RPHF variants, HydraCannon
+- **Sim Status**: ✅ ACTIVE — All simulations passed
